@@ -1,5 +1,0 @@
-{
-  "name": "Editable Scientific Diagram",
-  "description": "An interactive web application that reproduces a scientific diagram about hypoxia adaptation in mole-rats, allowing users to edit all text labels directly on the diagram.",
-  "requestFramePermissions": []
-}
